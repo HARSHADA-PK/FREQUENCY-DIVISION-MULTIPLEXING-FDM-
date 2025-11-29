@@ -123,6 +123,16 @@ subplot(3,2,6); plot(t,dm6); title("Recovered Signal 6");
 
 <img width="761" height="658" alt="image" src="https://github.com/user-attachments/assets/9898cd27-940e-4bbb-8e2e-939b9dc7cb99" />
 
+## TABULATION:
+
+![WhatsApp Image 2025-11-29 at 07 34 19_c471debb](https://github.com/user-attachments/assets/99c78200-9047-4757-bc2b-02b6dcfb74dc)
+
+![WhatsApp Image 2025-11-29 at 07 34 20_11414380](https://github.com/user-attachments/assets/1677c796-c2f3-48ce-83cb-92f4f04b0dd6)
+
+![WhatsApp Image 2025-11-29 at 07 34 21_db07db1c](https://github.com/user-attachments/assets/d2d22170-c182-42d5-98d4-86d129fb8508)
+
+
+
 
 ## RESULT:
 
